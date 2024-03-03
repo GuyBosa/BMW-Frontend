@@ -1,4 +1,6 @@
-# BMWFrontEndTest Steps
+# BMWFrontEnd
+SPA Built in Angular 14 and JSON data API
+![Capture](https://github.com/GuyBosa/BMW-Frontend/assets/40579537/5700ffef-84de-4c12-bb6b-676ea0b4d176)
 
 1. Run `npm i --legacy-peer-deps` 
 2. The project will install node-models, but wait... you have an error that stops you from running `ng serve`. Solve this error and you will be in the project. 
