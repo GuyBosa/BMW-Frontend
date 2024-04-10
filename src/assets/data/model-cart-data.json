@@ -1,41 +1,32 @@
-{
-    "models": {
-        "vehicleDetails": {
-            "list": [
-                {
-                    "modelName": "BMW 220i",
-                    "BodyType": "Coupé",
-                    "NewDemo": "New",
-                    "FuelType": "Petrol",
-                    "Transmition": "Automatic",
-                    "pricing":{
-                        "MonthlyInstallment": "12457.00",
-                        "OfferPrce": "857190.00"
-                    },
-                    "TechnicalSpecs": {
-                        "Zeroto100": "7.5",
-                        "EnginePerfomance": "135",
-                        "FuelConsumption": "6.3"
-                    }
-                },
-                {
-                    "modelName": "BMW 220d",
-                    "BodyType": "Coupé",
-                    "NewDemo": "Demo",
-                    "FuelType": "Diesel",
-                    "Transmition": "Automatic",
-                    "pricing":{
-                        "MonthlyInstallment": "13457.00",
-                        "OfferPrce": "897190.00"
-                    },
-                    "TechnicalSpecs": {
-                        "Zeroto100": "7.0",
-                        "EnginePerfomance": "155",
-                        "FuelConsumption": "6.9"
-                    }
-                }
-            ] 
-        }        
+[{
+    "modelName": "BMW 220i",
+    "BodyType": "Coupé",
+    "NewDemo": "New",
+    "FuelType": "Petrol",
+    "Transmition": "Automatic",
+    "pricing":{
+        "MonthlyInstallment": "12457.00",
+        "OfferPrce": "857190.00"
+    },
+    "TechnicalSpecs": {
+        "Zeroto100": "7.5",
+        "EnginePerfomance": "135",
+        "FuelConsumption": "6.3"
     }
-    
-}
+},
+{
+    "modelName": "BMW 220d",
+    "BodyType": "Coupé",
+    "NewDemo": "Demo",
+    "FuelType": "Diesel",
+    "Transmition": "Automatic",
+    "pricing":{
+        "MonthlyInstallment": "13457.00",
+        "OfferPrce": "897190.00"
+    },
+    "TechnicalSpecs": {
+        "Zeroto100": "7.0",
+        "EnginePerfomance": "155",
+        "FuelConsumption": "6.9"
+    }
+}]
