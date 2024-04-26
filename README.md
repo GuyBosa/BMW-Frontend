@@ -1,4 +1,4 @@
-# BMWFrontEndTest Steps
+# BMWFrontEndTest 
 ![screencapture-localhost-4200-2024-03-11-15_55_26](https://github.com/GuyBosa/BMW-Frontend/assets/40579537/f077d0d8-14cf-47f1-812a-2687c45e0c6e)
 
 1. Run `npm i --legacy-peer-deps`
