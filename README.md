@@ -1,6 +1,7 @@
 # BMWFrontEndTest Steps
+![screencapture-localhost-4200-2024-03-11-15_55_26](https://github.com/GuyBosa/BMW-Frontend/assets/40579537/f077d0d8-14cf-47f1-812a-2687c45e0c6e)
 
-1. Run `npm i --legacy-peer-deps` 
+1. Run `npm i --legacy-peer-deps`
 2. The project will install node-models, but wait... you have an error that stops you from running `ng serve`. Solve this error and you will be in the project. 
 3. Follow the instructions on the PDF and build us your best version of that component.
 
